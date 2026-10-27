@@ -1,0 +1,17 @@
+
+# Sensitive environment files
+.env
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+
+# IDE settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
